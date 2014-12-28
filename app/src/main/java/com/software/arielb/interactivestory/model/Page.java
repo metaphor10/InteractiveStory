@@ -27,7 +27,7 @@ public class Page {
 
     public Page (int imageId, String name){
         mImageId=imageId;
-        name=mName;
+        mName=name;
         mChoice2=null;
         mChoice1=null;
         mIsFinal=true;
